@@ -1,6 +1,6 @@
 <template>
   <a-config-provider :local="zhCN">
-    <router-view />
+    <div>hehe</div>
   </a-config-provider>
 </template>
 
